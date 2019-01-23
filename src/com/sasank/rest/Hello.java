@@ -5,7 +5,7 @@ import javax.ws.rs.Path;
 import javax.ws.rs.Produces;
 import javax.ws.rs.core.MediaType;
 
-// Rajeev Plain old Java Object it does not extend as class or implements
+// Plain old Java Object it does not extend as class or implements
 // an interface
 
 // The class registers its methods for the HTTP GET request using the @GET annotation.
